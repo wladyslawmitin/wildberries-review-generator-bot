@@ -1,0 +1,1 @@
+# wildberries-review-generator-bot
